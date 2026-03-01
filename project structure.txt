@@ -1,0 +1,13 @@
+📁 Multimeter-Digitalization/
+├── 📁 esp32_camera_code/         # ESP32 camera server code
+│   ├── 📄 camera_pins.h          # Pin configurations
+│   ├── 📄 CameraWebServer.ino    # Main ESP32 program
+│   ├── 📄 app_httpd.cpp          # HTTP server handlers
+│   ├── 📄 camera_index.h         # HTML interface
+│   └── 📄 partitions.csv         # Memory partition
+│
+├── 📁 arduino_voltage_regulation/
+│   └── 📄 sketch_jun7b.ino       # Voltage control sketch
+│
+└── 📁 python_digit_recognition/
+    └── 📄 Digit_Recognition.py   # OCR processing script
