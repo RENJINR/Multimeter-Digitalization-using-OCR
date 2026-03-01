@@ -1,0 +1,11 @@
+# Core dependencies for Digit Recognition
+numpy>=1.21.0
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0  # Required for cv2.ximgproc.thinning()
+matplotlib>=3.5.0
+requests>=2.28.0
+pillow>=9.0.0
+
+# Optional but recommended
+scipy>=1.9.0
+scikit-image>=0.19.0
